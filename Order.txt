@@ -1,12 +1,5 @@
-OrderID: ORD1765992786305, Customer: nothing, Total: 360.0, Discount: 0.0, Status: Pending
-OrderID: ORD75, Customer: nothing, Total: 240.0, Discount: 0.0, Status: Cancelled
-OrderID: ORD-49, Customer: nothing, Total: 360.0, Discount: 0.0, Status: Confirmed
 OrderID: ORD-18, Customer: zain, Total: 240.0, Discount: 40.0, Status: Confirmed
 OrderID: ORD-39, Customer: mujtaba, Total: 120.0, Discount: 0.0, Status: Pending
 OrderID: ORD-63, Customer: tehreem, Total: 240.0, Discount: 0.0, Status: Pending
-OrderID: ORD-94, Customer: zamzam, Total: 240.0, Discount: 0.0, Status: Pending
 OrderID: ORD-82, Customer: basit, Total: 240.0, Discount: 0.0, Status: Pending
 OrderID: ORD-17, Customer: Abdullah, Total: 240.0, Discount: 0.0, Status: Pending
-OrderID: ORD-11, Customer: Nimra, Total: 2100.0, Discount: 0.0, Status: Pending
-OrderID: ORD-88, Customer: hooria, Total: 6000.0, Discount: 200.0, Status: Confirmed
-OrderID: ORD-8, Customer: hooria, Total: 25200.0, Discount: 0.0, Status: Pending
