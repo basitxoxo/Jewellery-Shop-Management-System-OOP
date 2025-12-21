@@ -1,0 +1,12 @@
+PaymentID: PAY1765992786324, OrderID: ORD1765992786305, Amount: 360.0PKR, Method: Cash, Status: Paid
+PaymentID: PAY1765993886792, OrderID: ORD75, Amount: 240.0PKR, Method: Cash, Status: Paid
+PaymentID: PAY-49, OrderID: ORD-49, Amount: 360.0PKR, Method: Cash, Status: Paid
+PaymentID: PAY-18, OrderID: ORD-18, Amount: 240.0PKR, Method: Cash, Status: Paid
+PaymentID: PAY-39, OrderID: ORD-39, Amount: 120.0PKR, Method: cash on delivery, Status: Paid
+PaymentID: PAY-63, OrderID: ORD-63, Amount: 240.0PKR, Method: cash, Status: Will pay bycash
+PaymentID: PAY-94, OrderID: ORD-94, Amount: 240.0PKR, Method: cash, Status: Will pay bycash
+PaymentID: PAY-82, OrderID: ORD-82, Amount: 240.0PKR, Method: cash, Status: Will pay by cash
+PaymentID: PAY-17, OrderID: ORD-17, Amount: 240.0PKR, Method: cash, Status: Will pay by cash
+PaymentID: PAY-11, OrderID: ORD-11, Amount: 2100.0PKR, Method: cash, Status: Will pay by cash
+PaymentID: PAY-88, OrderID: ORD-88, Amount: 6000.0PKR, Method: card, Status: Will pay by card
+PaymentID: PAY-8, OrderID: ORD-8, Amount: 25200.0PKR, Method: card, Status: Will pay by card

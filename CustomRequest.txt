@@ -1,0 +1,5 @@
+Customer: , Product: basit, Description: it should be good in shape and it should held good, Status: Approved
+Customer: ali, Product: ring, Description: very small, Status: Rejected
+Customer: zain, Product: ring, Description: should be madeup of gold, Status: Approved
+Customer: aqeeb, Product: bracelet, Description: should be made up of silver, Status: Approved
+Customer: talha, Product: mobile cover, Description: should be of silver, Status: Approved

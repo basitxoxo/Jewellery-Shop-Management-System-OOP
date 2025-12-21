@@ -1,0 +1,2 @@
+ID: 2, Name: rings, Category: silver, Price: 2100.0, Quantity: 7
+ID: 1, Name: stuts, Category: gold, Price: 2000.0, Quantity: 7
