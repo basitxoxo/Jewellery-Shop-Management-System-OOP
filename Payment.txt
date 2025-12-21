@@ -1,5 +1,3 @@
-PaymentID: PAY1765992786324, OrderID: ORD1765992786305, Amount: 360.0PKR, Method: Cash, Status: Paid
-PaymentID: PAY1765993886792, OrderID: ORD75, Amount: 240.0PKR, Method: Cash, Status: Paid
 PaymentID: PAY-49, OrderID: ORD-49, Amount: 360.0PKR, Method: Cash, Status: Paid
 PaymentID: PAY-18, OrderID: ORD-18, Amount: 240.0PKR, Method: Cash, Status: Paid
 PaymentID: PAY-39, OrderID: ORD-39, Amount: 120.0PKR, Method: cash on delivery, Status: Paid
